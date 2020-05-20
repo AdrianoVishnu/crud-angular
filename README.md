@@ -1,4 +1,18 @@
-# Projeto CRUD com Angular 9 - Curso Grátis!!!
+# Simple CRUD Angular 9 Project
 
-Mais informações...
-[Angular 9 - Essencial](https://www.cod3r.com.br/courses/angular-9-essencial)
+CRUD using Angular 9 and Material Design
+
+- -
+
+# To Run
+
+- Clone the project
+- Open backend folder
+- Run npm i then npm start
+
+- Open frontend folder
+- Run npm i then npm start
+- Browse to http://localhost:4200/
+
+Enjoy
+
